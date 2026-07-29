@@ -1,0 +1,15 @@
+/Users/DS1/Documents/2026-I2DS/Aula-02/POO/bin/Debug/net10.0/POO
+/Users/DS1/Documents/2026-I2DS/Aula-02/POO/bin/Debug/net10.0/POO.deps.json
+/Users/DS1/Documents/2026-I2DS/Aula-02/POO/bin/Debug/net10.0/POO.runtimeconfig.json
+/Users/DS1/Documents/2026-I2DS/Aula-02/POO/bin/Debug/net10.0/POO.dll
+/Users/DS1/Documents/2026-I2DS/Aula-02/POO/bin/Debug/net10.0/POO.pdb
+/Users/DS1/Documents/2026-I2DS/Aula-02/POO/obj/Debug/net10.0/POO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/DS1/Documents/2026-I2DS/Aula-02/POO/obj/Debug/net10.0/POO.AssemblyInfoInputs.cache
+/Users/DS1/Documents/2026-I2DS/Aula-02/POO/obj/Debug/net10.0/POO.AssemblyInfo.cs
+/Users/DS1/Documents/2026-I2DS/Aula-02/POO/obj/Debug/net10.0/POO.csproj.CoreCompileInputs.cache
+/Users/DS1/Documents/2026-I2DS/Aula-02/POO/obj/Debug/net10.0/POO.sourcelink.json
+/Users/DS1/Documents/2026-I2DS/Aula-02/POO/obj/Debug/net10.0/POO.dll
+/Users/DS1/Documents/2026-I2DS/Aula-02/POO/obj/Debug/net10.0/refint/POO.dll
+/Users/DS1/Documents/2026-I2DS/Aula-02/POO/obj/Debug/net10.0/POO.pdb
+/Users/DS1/Documents/2026-I2DS/Aula-02/POO/obj/Debug/net10.0/POO.genruntimeconfig.cache
+/Users/DS1/Documents/2026-I2DS/Aula-02/POO/obj/Debug/net10.0/ref/POO.dll
