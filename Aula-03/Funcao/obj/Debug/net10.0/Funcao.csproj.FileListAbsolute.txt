@@ -1,0 +1,15 @@
+/Users/DS1/Documents/2026-I2DS/Aula-03/Funcao/bin/Debug/net10.0/Funcao
+/Users/DS1/Documents/2026-I2DS/Aula-03/Funcao/bin/Debug/net10.0/Funcao.deps.json
+/Users/DS1/Documents/2026-I2DS/Aula-03/Funcao/bin/Debug/net10.0/Funcao.runtimeconfig.json
+/Users/DS1/Documents/2026-I2DS/Aula-03/Funcao/bin/Debug/net10.0/Funcao.dll
+/Users/DS1/Documents/2026-I2DS/Aula-03/Funcao/bin/Debug/net10.0/Funcao.pdb
+/Users/DS1/Documents/2026-I2DS/Aula-03/Funcao/obj/Debug/net10.0/Funcao.GeneratedMSBuildEditorConfig.editorconfig
+/Users/DS1/Documents/2026-I2DS/Aula-03/Funcao/obj/Debug/net10.0/Funcao.AssemblyInfoInputs.cache
+/Users/DS1/Documents/2026-I2DS/Aula-03/Funcao/obj/Debug/net10.0/Funcao.AssemblyInfo.cs
+/Users/DS1/Documents/2026-I2DS/Aula-03/Funcao/obj/Debug/net10.0/Funcao.csproj.CoreCompileInputs.cache
+/Users/DS1/Documents/2026-I2DS/Aula-03/Funcao/obj/Debug/net10.0/Funcao.sourcelink.json
+/Users/DS1/Documents/2026-I2DS/Aula-03/Funcao/obj/Debug/net10.0/Funcao.dll
+/Users/DS1/Documents/2026-I2DS/Aula-03/Funcao/obj/Debug/net10.0/refint/Funcao.dll
+/Users/DS1/Documents/2026-I2DS/Aula-03/Funcao/obj/Debug/net10.0/Funcao.pdb
+/Users/DS1/Documents/2026-I2DS/Aula-03/Funcao/obj/Debug/net10.0/Funcao.genruntimeconfig.cache
+/Users/DS1/Documents/2026-I2DS/Aula-03/Funcao/obj/Debug/net10.0/ref/Funcao.dll
