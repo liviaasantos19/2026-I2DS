@@ -1,0 +1,15 @@
+/Users/DS1/Documents/2026-I2DS/Aula-03/Condicionais/bin/Debug/net10.0/Condicionais
+/Users/DS1/Documents/2026-I2DS/Aula-03/Condicionais/bin/Debug/net10.0/Condicionais.deps.json
+/Users/DS1/Documents/2026-I2DS/Aula-03/Condicionais/bin/Debug/net10.0/Condicionais.runtimeconfig.json
+/Users/DS1/Documents/2026-I2DS/Aula-03/Condicionais/bin/Debug/net10.0/Condicionais.dll
+/Users/DS1/Documents/2026-I2DS/Aula-03/Condicionais/bin/Debug/net10.0/Condicionais.pdb
+/Users/DS1/Documents/2026-I2DS/Aula-03/Condicionais/obj/Debug/net10.0/Condicionais.GeneratedMSBuildEditorConfig.editorconfig
+/Users/DS1/Documents/2026-I2DS/Aula-03/Condicionais/obj/Debug/net10.0/Condicionais.AssemblyInfoInputs.cache
+/Users/DS1/Documents/2026-I2DS/Aula-03/Condicionais/obj/Debug/net10.0/Condicionais.AssemblyInfo.cs
+/Users/DS1/Documents/2026-I2DS/Aula-03/Condicionais/obj/Debug/net10.0/Condicionais.csproj.CoreCompileInputs.cache
+/Users/DS1/Documents/2026-I2DS/Aula-03/Condicionais/obj/Debug/net10.0/Condicionais.sourcelink.json
+/Users/DS1/Documents/2026-I2DS/Aula-03/Condicionais/obj/Debug/net10.0/Condicionais.dll
+/Users/DS1/Documents/2026-I2DS/Aula-03/Condicionais/obj/Debug/net10.0/refint/Condicionais.dll
+/Users/DS1/Documents/2026-I2DS/Aula-03/Condicionais/obj/Debug/net10.0/Condicionais.pdb
+/Users/DS1/Documents/2026-I2DS/Aula-03/Condicionais/obj/Debug/net10.0/Condicionais.genruntimeconfig.cache
+/Users/DS1/Documents/2026-I2DS/Aula-03/Condicionais/obj/Debug/net10.0/ref/Condicionais.dll
