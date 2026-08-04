@@ -1,0 +1,15 @@
+/Users/DS1/Documents/2026-I2DS/Aula-03/Vetores/bin/Debug/net10.0/Vetores
+/Users/DS1/Documents/2026-I2DS/Aula-03/Vetores/bin/Debug/net10.0/Vetores.deps.json
+/Users/DS1/Documents/2026-I2DS/Aula-03/Vetores/bin/Debug/net10.0/Vetores.runtimeconfig.json
+/Users/DS1/Documents/2026-I2DS/Aula-03/Vetores/bin/Debug/net10.0/Vetores.dll
+/Users/DS1/Documents/2026-I2DS/Aula-03/Vetores/bin/Debug/net10.0/Vetores.pdb
+/Users/DS1/Documents/2026-I2DS/Aula-03/Vetores/obj/Debug/net10.0/Vetores.GeneratedMSBuildEditorConfig.editorconfig
+/Users/DS1/Documents/2026-I2DS/Aula-03/Vetores/obj/Debug/net10.0/Vetores.AssemblyInfoInputs.cache
+/Users/DS1/Documents/2026-I2DS/Aula-03/Vetores/obj/Debug/net10.0/Vetores.AssemblyInfo.cs
+/Users/DS1/Documents/2026-I2DS/Aula-03/Vetores/obj/Debug/net10.0/Vetores.csproj.CoreCompileInputs.cache
+/Users/DS1/Documents/2026-I2DS/Aula-03/Vetores/obj/Debug/net10.0/Vetores.sourcelink.json
+/Users/DS1/Documents/2026-I2DS/Aula-03/Vetores/obj/Debug/net10.0/Vetores.dll
+/Users/DS1/Documents/2026-I2DS/Aula-03/Vetores/obj/Debug/net10.0/refint/Vetores.dll
+/Users/DS1/Documents/2026-I2DS/Aula-03/Vetores/obj/Debug/net10.0/Vetores.pdb
+/Users/DS1/Documents/2026-I2DS/Aula-03/Vetores/obj/Debug/net10.0/Vetores.genruntimeconfig.cache
+/Users/DS1/Documents/2026-I2DS/Aula-03/Vetores/obj/Debug/net10.0/ref/Vetores.dll

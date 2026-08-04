@@ -1,0 +1,15 @@
+/Users/DS1/Documents/2026-I2DS/Aula-03/Repeticao/bin/Debug/net10.0/Repeticao
+/Users/DS1/Documents/2026-I2DS/Aula-03/Repeticao/bin/Debug/net10.0/Repeticao.deps.json
+/Users/DS1/Documents/2026-I2DS/Aula-03/Repeticao/bin/Debug/net10.0/Repeticao.runtimeconfig.json
+/Users/DS1/Documents/2026-I2DS/Aula-03/Repeticao/bin/Debug/net10.0/Repeticao.dll
+/Users/DS1/Documents/2026-I2DS/Aula-03/Repeticao/bin/Debug/net10.0/Repeticao.pdb
+/Users/DS1/Documents/2026-I2DS/Aula-03/Repeticao/obj/Debug/net10.0/Repeticao.GeneratedMSBuildEditorConfig.editorconfig
+/Users/DS1/Documents/2026-I2DS/Aula-03/Repeticao/obj/Debug/net10.0/Repeticao.AssemblyInfoInputs.cache
+/Users/DS1/Documents/2026-I2DS/Aula-03/Repeticao/obj/Debug/net10.0/Repeticao.AssemblyInfo.cs
+/Users/DS1/Documents/2026-I2DS/Aula-03/Repeticao/obj/Debug/net10.0/Repeticao.csproj.CoreCompileInputs.cache
+/Users/DS1/Documents/2026-I2DS/Aula-03/Repeticao/obj/Debug/net10.0/Repeticao.sourcelink.json
+/Users/DS1/Documents/2026-I2DS/Aula-03/Repeticao/obj/Debug/net10.0/Repeticao.dll
+/Users/DS1/Documents/2026-I2DS/Aula-03/Repeticao/obj/Debug/net10.0/refint/Repeticao.dll
+/Users/DS1/Documents/2026-I2DS/Aula-03/Repeticao/obj/Debug/net10.0/Repeticao.pdb
+/Users/DS1/Documents/2026-I2DS/Aula-03/Repeticao/obj/Debug/net10.0/Repeticao.genruntimeconfig.cache
+/Users/DS1/Documents/2026-I2DS/Aula-03/Repeticao/obj/Debug/net10.0/ref/Repeticao.dll
