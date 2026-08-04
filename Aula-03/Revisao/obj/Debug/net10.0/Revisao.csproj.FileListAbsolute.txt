@@ -1,0 +1,15 @@
+/Users/DS1/Documents/2026-I2DS/Aula-03/Revisao/bin/Debug/net10.0/Revisao
+/Users/DS1/Documents/2026-I2DS/Aula-03/Revisao/bin/Debug/net10.0/Revisao.deps.json
+/Users/DS1/Documents/2026-I2DS/Aula-03/Revisao/bin/Debug/net10.0/Revisao.runtimeconfig.json
+/Users/DS1/Documents/2026-I2DS/Aula-03/Revisao/bin/Debug/net10.0/Revisao.dll
+/Users/DS1/Documents/2026-I2DS/Aula-03/Revisao/bin/Debug/net10.0/Revisao.pdb
+/Users/DS1/Documents/2026-I2DS/Aula-03/Revisao/obj/Debug/net10.0/Revisao.GeneratedMSBuildEditorConfig.editorconfig
+/Users/DS1/Documents/2026-I2DS/Aula-03/Revisao/obj/Debug/net10.0/Revisao.AssemblyInfoInputs.cache
+/Users/DS1/Documents/2026-I2DS/Aula-03/Revisao/obj/Debug/net10.0/Revisao.AssemblyInfo.cs
+/Users/DS1/Documents/2026-I2DS/Aula-03/Revisao/obj/Debug/net10.0/Revisao.csproj.CoreCompileInputs.cache
+/Users/DS1/Documents/2026-I2DS/Aula-03/Revisao/obj/Debug/net10.0/Revisao.sourcelink.json
+/Users/DS1/Documents/2026-I2DS/Aula-03/Revisao/obj/Debug/net10.0/Revisao.dll
+/Users/DS1/Documents/2026-I2DS/Aula-03/Revisao/obj/Debug/net10.0/refint/Revisao.dll
+/Users/DS1/Documents/2026-I2DS/Aula-03/Revisao/obj/Debug/net10.0/Revisao.pdb
+/Users/DS1/Documents/2026-I2DS/Aula-03/Revisao/obj/Debug/net10.0/Revisao.genruntimeconfig.cache
+/Users/DS1/Documents/2026-I2DS/Aula-03/Revisao/obj/Debug/net10.0/ref/Revisao.dll
