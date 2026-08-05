@@ -1,0 +1,15 @@
+/Users/DS1/Documents/2026-I2DS/Aula-03/9/bin/Debug/net10.0/9
+/Users/DS1/Documents/2026-I2DS/Aula-03/9/bin/Debug/net10.0/9.deps.json
+/Users/DS1/Documents/2026-I2DS/Aula-03/9/bin/Debug/net10.0/9.runtimeconfig.json
+/Users/DS1/Documents/2026-I2DS/Aula-03/9/bin/Debug/net10.0/9.dll
+/Users/DS1/Documents/2026-I2DS/Aula-03/9/bin/Debug/net10.0/9.pdb
+/Users/DS1/Documents/2026-I2DS/Aula-03/9/obj/Debug/net10.0/9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/DS1/Documents/2026-I2DS/Aula-03/9/obj/Debug/net10.0/9.AssemblyInfoInputs.cache
+/Users/DS1/Documents/2026-I2DS/Aula-03/9/obj/Debug/net10.0/9.AssemblyInfo.cs
+/Users/DS1/Documents/2026-I2DS/Aula-03/9/obj/Debug/net10.0/9.csproj.CoreCompileInputs.cache
+/Users/DS1/Documents/2026-I2DS/Aula-03/9/obj/Debug/net10.0/9.sourcelink.json
+/Users/DS1/Documents/2026-I2DS/Aula-03/9/obj/Debug/net10.0/9.dll
+/Users/DS1/Documents/2026-I2DS/Aula-03/9/obj/Debug/net10.0/refint/9.dll
+/Users/DS1/Documents/2026-I2DS/Aula-03/9/obj/Debug/net10.0/9.pdb
+/Users/DS1/Documents/2026-I2DS/Aula-03/9/obj/Debug/net10.0/9.genruntimeconfig.cache
+/Users/DS1/Documents/2026-I2DS/Aula-03/9/obj/Debug/net10.0/ref/9.dll
