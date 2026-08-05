@@ -1,0 +1,15 @@
+/Users/DS1/Documents/2026-I2DS/Aula-03/04/bin/Debug/net10.0/Exercicio-04
+/Users/DS1/Documents/2026-I2DS/Aula-03/04/bin/Debug/net10.0/Exercicio-04.deps.json
+/Users/DS1/Documents/2026-I2DS/Aula-03/04/bin/Debug/net10.0/Exercicio-04.runtimeconfig.json
+/Users/DS1/Documents/2026-I2DS/Aula-03/04/bin/Debug/net10.0/Exercicio-04.dll
+/Users/DS1/Documents/2026-I2DS/Aula-03/04/bin/Debug/net10.0/Exercicio-04.pdb
+/Users/DS1/Documents/2026-I2DS/Aula-03/04/obj/Debug/net10.0/Exercicio-04.GeneratedMSBuildEditorConfig.editorconfig
+/Users/DS1/Documents/2026-I2DS/Aula-03/04/obj/Debug/net10.0/Exercicio-04.AssemblyInfoInputs.cache
+/Users/DS1/Documents/2026-I2DS/Aula-03/04/obj/Debug/net10.0/Exercicio-04.AssemblyInfo.cs
+/Users/DS1/Documents/2026-I2DS/Aula-03/04/obj/Debug/net10.0/Exercicio-04.csproj.CoreCompileInputs.cache
+/Users/DS1/Documents/2026-I2DS/Aula-03/04/obj/Debug/net10.0/Exercicio-04.sourcelink.json
+/Users/DS1/Documents/2026-I2DS/Aula-03/04/obj/Debug/net10.0/Exercicio-04.dll
+/Users/DS1/Documents/2026-I2DS/Aula-03/04/obj/Debug/net10.0/refint/Exercicio-04.dll
+/Users/DS1/Documents/2026-I2DS/Aula-03/04/obj/Debug/net10.0/Exercicio-04.pdb
+/Users/DS1/Documents/2026-I2DS/Aula-03/04/obj/Debug/net10.0/Exercicio-04.genruntimeconfig.cache
+/Users/DS1/Documents/2026-I2DS/Aula-03/04/obj/Debug/net10.0/ref/Exercicio-04.dll

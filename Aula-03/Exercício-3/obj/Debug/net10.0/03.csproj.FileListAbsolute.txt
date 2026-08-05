@@ -1,0 +1,15 @@
+/Users/DS1/Documents/2026-I2DS/Aula-03/03/bin/Debug/net10.0/03
+/Users/DS1/Documents/2026-I2DS/Aula-03/03/bin/Debug/net10.0/03.deps.json
+/Users/DS1/Documents/2026-I2DS/Aula-03/03/bin/Debug/net10.0/03.runtimeconfig.json
+/Users/DS1/Documents/2026-I2DS/Aula-03/03/bin/Debug/net10.0/03.dll
+/Users/DS1/Documents/2026-I2DS/Aula-03/03/bin/Debug/net10.0/03.pdb
+/Users/DS1/Documents/2026-I2DS/Aula-03/03/obj/Debug/net10.0/03.GeneratedMSBuildEditorConfig.editorconfig
+/Users/DS1/Documents/2026-I2DS/Aula-03/03/obj/Debug/net10.0/03.AssemblyInfoInputs.cache
+/Users/DS1/Documents/2026-I2DS/Aula-03/03/obj/Debug/net10.0/03.AssemblyInfo.cs
+/Users/DS1/Documents/2026-I2DS/Aula-03/03/obj/Debug/net10.0/03.csproj.CoreCompileInputs.cache
+/Users/DS1/Documents/2026-I2DS/Aula-03/03/obj/Debug/net10.0/03.sourcelink.json
+/Users/DS1/Documents/2026-I2DS/Aula-03/03/obj/Debug/net10.0/03.dll
+/Users/DS1/Documents/2026-I2DS/Aula-03/03/obj/Debug/net10.0/refint/03.dll
+/Users/DS1/Documents/2026-I2DS/Aula-03/03/obj/Debug/net10.0/03.pdb
+/Users/DS1/Documents/2026-I2DS/Aula-03/03/obj/Debug/net10.0/03.genruntimeconfig.cache
+/Users/DS1/Documents/2026-I2DS/Aula-03/03/obj/Debug/net10.0/ref/03.dll
