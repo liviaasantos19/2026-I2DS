@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/DS1/Documents/2026-I2DS/Aula-03/04/Exercicio-04.csproj",
+      "projectUniqueName": "/Users/DS1/Documents/2026-I2DS/Aula-03/Exercício-4/Exercicio-04.csproj",
       "projectName": "Exercicio-04",
-      "projectPath": "/Users/DS1/Documents/2026-I2DS/Aula-03/04/Exercicio-04.csproj",
+      "projectPath": "/Users/DS1/Documents/2026-I2DS/Aula-03/Exercício-4/Exercicio-04.csproj",
       "packagesPath": "/Users/DS1/.nuget/packages/",
-      "outputPath": "/Users/DS1/Documents/2026-I2DS/Aula-03/04/obj/",
+      "outputPath": "/Users/DS1/Documents/2026-I2DS/Aula-03/Exercício-4/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/DS1/.nuget/NuGet/NuGet.Config"

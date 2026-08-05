@@ -1,0 +1,15 @@
+/Users/DS1/Documents/2026-I2DS/Aula-04/04-Polimorfismo/Polimorfismo/bin/Debug/net10.0/Polimorfismo
+/Users/DS1/Documents/2026-I2DS/Aula-04/04-Polimorfismo/Polimorfismo/bin/Debug/net10.0/Polimorfismo.deps.json
+/Users/DS1/Documents/2026-I2DS/Aula-04/04-Polimorfismo/Polimorfismo/bin/Debug/net10.0/Polimorfismo.runtimeconfig.json
+/Users/DS1/Documents/2026-I2DS/Aula-04/04-Polimorfismo/Polimorfismo/bin/Debug/net10.0/Polimorfismo.dll
+/Users/DS1/Documents/2026-I2DS/Aula-04/04-Polimorfismo/Polimorfismo/bin/Debug/net10.0/Polimorfismo.pdb
+/Users/DS1/Documents/2026-I2DS/Aula-04/04-Polimorfismo/Polimorfismo/obj/Debug/net10.0/Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/DS1/Documents/2026-I2DS/Aula-04/04-Polimorfismo/Polimorfismo/obj/Debug/net10.0/Polimorfismo.AssemblyInfoInputs.cache
+/Users/DS1/Documents/2026-I2DS/Aula-04/04-Polimorfismo/Polimorfismo/obj/Debug/net10.0/Polimorfismo.AssemblyInfo.cs
+/Users/DS1/Documents/2026-I2DS/Aula-04/04-Polimorfismo/Polimorfismo/obj/Debug/net10.0/Polimorfismo.csproj.CoreCompileInputs.cache
+/Users/DS1/Documents/2026-I2DS/Aula-04/04-Polimorfismo/Polimorfismo/obj/Debug/net10.0/Polimorfismo.sourcelink.json
+/Users/DS1/Documents/2026-I2DS/Aula-04/04-Polimorfismo/Polimorfismo/obj/Debug/net10.0/Polimorfismo.dll
+/Users/DS1/Documents/2026-I2DS/Aula-04/04-Polimorfismo/Polimorfismo/obj/Debug/net10.0/refint/Polimorfismo.dll
+/Users/DS1/Documents/2026-I2DS/Aula-04/04-Polimorfismo/Polimorfismo/obj/Debug/net10.0/Polimorfismo.pdb
+/Users/DS1/Documents/2026-I2DS/Aula-04/04-Polimorfismo/Polimorfismo/obj/Debug/net10.0/Polimorfismo.genruntimeconfig.cache
+/Users/DS1/Documents/2026-I2DS/Aula-04/04-Polimorfismo/Polimorfismo/obj/Debug/net10.0/ref/Polimorfismo.dll

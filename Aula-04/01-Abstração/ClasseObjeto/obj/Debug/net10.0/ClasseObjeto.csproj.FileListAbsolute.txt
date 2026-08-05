@@ -1,0 +1,15 @@
+/Users/DS1/Documents/2026-I2DS/Aula-04/01-Abstração/ClasseObjeto/bin/Debug/net10.0/ClasseObjeto
+/Users/DS1/Documents/2026-I2DS/Aula-04/01-Abstração/ClasseObjeto/bin/Debug/net10.0/ClasseObjeto.deps.json
+/Users/DS1/Documents/2026-I2DS/Aula-04/01-Abstração/ClasseObjeto/bin/Debug/net10.0/ClasseObjeto.runtimeconfig.json
+/Users/DS1/Documents/2026-I2DS/Aula-04/01-Abstração/ClasseObjeto/bin/Debug/net10.0/ClasseObjeto.dll
+/Users/DS1/Documents/2026-I2DS/Aula-04/01-Abstração/ClasseObjeto/bin/Debug/net10.0/ClasseObjeto.pdb
+/Users/DS1/Documents/2026-I2DS/Aula-04/01-Abstração/ClasseObjeto/obj/Debug/net10.0/ClasseObjeto.GeneratedMSBuildEditorConfig.editorconfig
+/Users/DS1/Documents/2026-I2DS/Aula-04/01-Abstração/ClasseObjeto/obj/Debug/net10.0/ClasseObjeto.AssemblyInfoInputs.cache
+/Users/DS1/Documents/2026-I2DS/Aula-04/01-Abstração/ClasseObjeto/obj/Debug/net10.0/ClasseObjeto.AssemblyInfo.cs
+/Users/DS1/Documents/2026-I2DS/Aula-04/01-Abstração/ClasseObjeto/obj/Debug/net10.0/ClasseObjeto.csproj.CoreCompileInputs.cache
+/Users/DS1/Documents/2026-I2DS/Aula-04/01-Abstração/ClasseObjeto/obj/Debug/net10.0/ClasseObjeto.sourcelink.json
+/Users/DS1/Documents/2026-I2DS/Aula-04/01-Abstração/ClasseObjeto/obj/Debug/net10.0/ClasseObjeto.dll
+/Users/DS1/Documents/2026-I2DS/Aula-04/01-Abstração/ClasseObjeto/obj/Debug/net10.0/refint/ClasseObjeto.dll
+/Users/DS1/Documents/2026-I2DS/Aula-04/01-Abstração/ClasseObjeto/obj/Debug/net10.0/ClasseObjeto.pdb
+/Users/DS1/Documents/2026-I2DS/Aula-04/01-Abstração/ClasseObjeto/obj/Debug/net10.0/ClasseObjeto.genruntimeconfig.cache
+/Users/DS1/Documents/2026-I2DS/Aula-04/01-Abstração/ClasseObjeto/obj/Debug/net10.0/ref/ClasseObjeto.dll
