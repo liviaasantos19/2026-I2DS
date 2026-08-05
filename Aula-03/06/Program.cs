@@ -1,36 +1,40 @@
 ﻿
-using System.ComponentModel;
-
 internal class Program
 {
     private static void Main(string[] args)
     {
         string resposta;
-        /* Operadores Matemáticos 
-       + -> Somar
-        - -> Subtrair
-       * -> Multiplicar
-       / -> Divisão  
-        % -> Resto da Divisão
-       ^ -> Exponenciação
-       = -> Atribuição
-        */
 
+        /* LISTA DE EXERCICIOS - Exercicio 06 */
 
-        {
-            Console.Write("Digite um número: ");
-           int numero = int.Parse(Console.ReadLine());
+        // Tabuada do numero informado
+            Console.Write("Informe um número e descubra sua tabuada: ");
+            int numero = int.Parse(Console.ReadLine());
 
-            for (int i = 1; i <= 10; i++)
+            for (int n = 1; n <= 10; n++)
             {
-                Console.WriteLine(numero + " x " + i + " = " + (numero * i));
+                Console.WriteLine(numero + " x " + n + " = " + (numero * n));
             }
+
+            // Deseja continuar
 
             Console.Write("Deseja continuar? (S/N): ");
             resposta = Console.ReadLine();
-          
-        } while (resposta == "S" || resposta == "s");
 
-        Console.WriteLine("Programa encerrado.");
+        while (resposta == "S") 
+        {
+            Console.Write("Informe um número e descubra sua tabuada: ");
+            numero = int.Parse(Console.ReadLine());
+
+            for (int n = 1; n <= 10; n++)
+            {
+                Console.WriteLine(numero + " x " + n + " = " + (numero * n));
+            }
+        }
+
+        Console.WriteLine("lPrograma finaizado com sucesso.");
+        
     }
 }
+
+
