@@ -1,0 +1,15 @@
+/Users/DS1/Documents/2026-I2DS/Aula-05/Exerc-06-07/ContaBancaria/bin/Debug/net10.0/ContaBancaria
+/Users/DS1/Documents/2026-I2DS/Aula-05/Exerc-06-07/ContaBancaria/bin/Debug/net10.0/ContaBancaria.deps.json
+/Users/DS1/Documents/2026-I2DS/Aula-05/Exerc-06-07/ContaBancaria/bin/Debug/net10.0/ContaBancaria.runtimeconfig.json
+/Users/DS1/Documents/2026-I2DS/Aula-05/Exerc-06-07/ContaBancaria/bin/Debug/net10.0/ContaBancaria.dll
+/Users/DS1/Documents/2026-I2DS/Aula-05/Exerc-06-07/ContaBancaria/bin/Debug/net10.0/ContaBancaria.pdb
+/Users/DS1/Documents/2026-I2DS/Aula-05/Exerc-06-07/ContaBancaria/obj/Debug/net10.0/ContaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+/Users/DS1/Documents/2026-I2DS/Aula-05/Exerc-06-07/ContaBancaria/obj/Debug/net10.0/ContaBancaria.AssemblyInfoInputs.cache
+/Users/DS1/Documents/2026-I2DS/Aula-05/Exerc-06-07/ContaBancaria/obj/Debug/net10.0/ContaBancaria.AssemblyInfo.cs
+/Users/DS1/Documents/2026-I2DS/Aula-05/Exerc-06-07/ContaBancaria/obj/Debug/net10.0/ContaBancaria.csproj.CoreCompileInputs.cache
+/Users/DS1/Documents/2026-I2DS/Aula-05/Exerc-06-07/ContaBancaria/obj/Debug/net10.0/ContaBancaria.sourcelink.json
+/Users/DS1/Documents/2026-I2DS/Aula-05/Exerc-06-07/ContaBancaria/obj/Debug/net10.0/ContaBancaria.dll
+/Users/DS1/Documents/2026-I2DS/Aula-05/Exerc-06-07/ContaBancaria/obj/Debug/net10.0/refint/ContaBancaria.dll
+/Users/DS1/Documents/2026-I2DS/Aula-05/Exerc-06-07/ContaBancaria/obj/Debug/net10.0/ContaBancaria.pdb
+/Users/DS1/Documents/2026-I2DS/Aula-05/Exerc-06-07/ContaBancaria/obj/Debug/net10.0/ContaBancaria.genruntimeconfig.cache
+/Users/DS1/Documents/2026-I2DS/Aula-05/Exerc-06-07/ContaBancaria/obj/Debug/net10.0/ref/ContaBancaria.dll

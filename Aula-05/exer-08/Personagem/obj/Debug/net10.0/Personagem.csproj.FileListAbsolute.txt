@@ -1,0 +1,15 @@
+/Users/DS1/Documents/2026-I2DS/Aula-05/exer-08/Personagem/bin/Debug/net10.0/Personagem
+/Users/DS1/Documents/2026-I2DS/Aula-05/exer-08/Personagem/bin/Debug/net10.0/Personagem.deps.json
+/Users/DS1/Documents/2026-I2DS/Aula-05/exer-08/Personagem/bin/Debug/net10.0/Personagem.runtimeconfig.json
+/Users/DS1/Documents/2026-I2DS/Aula-05/exer-08/Personagem/bin/Debug/net10.0/Personagem.dll
+/Users/DS1/Documents/2026-I2DS/Aula-05/exer-08/Personagem/bin/Debug/net10.0/Personagem.pdb
+/Users/DS1/Documents/2026-I2DS/Aula-05/exer-08/Personagem/obj/Debug/net10.0/Personagem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/DS1/Documents/2026-I2DS/Aula-05/exer-08/Personagem/obj/Debug/net10.0/Personagem.AssemblyInfoInputs.cache
+/Users/DS1/Documents/2026-I2DS/Aula-05/exer-08/Personagem/obj/Debug/net10.0/Personagem.AssemblyInfo.cs
+/Users/DS1/Documents/2026-I2DS/Aula-05/exer-08/Personagem/obj/Debug/net10.0/Personagem.csproj.CoreCompileInputs.cache
+/Users/DS1/Documents/2026-I2DS/Aula-05/exer-08/Personagem/obj/Debug/net10.0/Personagem.sourcelink.json
+/Users/DS1/Documents/2026-I2DS/Aula-05/exer-08/Personagem/obj/Debug/net10.0/Personagem.dll
+/Users/DS1/Documents/2026-I2DS/Aula-05/exer-08/Personagem/obj/Debug/net10.0/refint/Personagem.dll
+/Users/DS1/Documents/2026-I2DS/Aula-05/exer-08/Personagem/obj/Debug/net10.0/Personagem.pdb
+/Users/DS1/Documents/2026-I2DS/Aula-05/exer-08/Personagem/obj/Debug/net10.0/Personagem.genruntimeconfig.cache
+/Users/DS1/Documents/2026-I2DS/Aula-05/exer-08/Personagem/obj/Debug/net10.0/ref/Personagem.dll

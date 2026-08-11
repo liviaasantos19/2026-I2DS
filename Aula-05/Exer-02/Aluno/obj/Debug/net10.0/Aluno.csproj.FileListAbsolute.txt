@@ -1,0 +1,15 @@
+/Users/DS1/Documents/2026-I2DS/Aula-05/Exer-02/Aluno/obj/Debug/net10.0/Aluno.GeneratedMSBuildEditorConfig.editorconfig
+/Users/DS1/Documents/2026-I2DS/Aula-05/Exer-02/Aluno/obj/Debug/net10.0/Aluno.AssemblyInfoInputs.cache
+/Users/DS1/Documents/2026-I2DS/Aula-05/Exer-02/Aluno/obj/Debug/net10.0/Aluno.AssemblyInfo.cs
+/Users/DS1/Documents/2026-I2DS/Aula-05/Exer-02/Aluno/obj/Debug/net10.0/Aluno.csproj.CoreCompileInputs.cache
+/Users/DS1/Documents/2026-I2DS/Aula-05/Exer-02/Aluno/obj/Debug/net10.0/Aluno.sourcelink.json
+/Users/DS1/Documents/2026-I2DS/Aula-05/Exer-02/Aluno/bin/Debug/net10.0/Aluno
+/Users/DS1/Documents/2026-I2DS/Aula-05/Exer-02/Aluno/bin/Debug/net10.0/Aluno.deps.json
+/Users/DS1/Documents/2026-I2DS/Aula-05/Exer-02/Aluno/bin/Debug/net10.0/Aluno.runtimeconfig.json
+/Users/DS1/Documents/2026-I2DS/Aula-05/Exer-02/Aluno/bin/Debug/net10.0/Aluno.dll
+/Users/DS1/Documents/2026-I2DS/Aula-05/Exer-02/Aluno/bin/Debug/net10.0/Aluno.pdb
+/Users/DS1/Documents/2026-I2DS/Aula-05/Exer-02/Aluno/obj/Debug/net10.0/Aluno.dll
+/Users/DS1/Documents/2026-I2DS/Aula-05/Exer-02/Aluno/obj/Debug/net10.0/refint/Aluno.dll
+/Users/DS1/Documents/2026-I2DS/Aula-05/Exer-02/Aluno/obj/Debug/net10.0/Aluno.pdb
+/Users/DS1/Documents/2026-I2DS/Aula-05/Exer-02/Aluno/obj/Debug/net10.0/Aluno.genruntimeconfig.cache
+/Users/DS1/Documents/2026-I2DS/Aula-05/Exer-02/Aluno/obj/Debug/net10.0/ref/Aluno.dll
