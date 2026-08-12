@@ -2,7 +2,7 @@
 {
     private static void Main(string[] args)
     {
-        Console.WriteLine("=== TRABALHANDO COM PILHAS (FILO) ===");
+        Console.WriteLine("\n=== TRABALHANDO COM PILHAS (FILO) ===");
 
         // 1 - Criar uma nova pilha vazia
         Stack<string> pilhaLivros = new Stack<string>();
@@ -31,4 +31,7 @@
             Console.WriteLine(livro);
         }
     }
-}
+}        
+
+
+ 
