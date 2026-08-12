@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/DS1/Documents/2026-I2DS/Aula-05/exer-08/Personagem/Personagem.csproj": {}
+    "/Users/DS1/Documents/2026-I2DS/Aula-05/Lívia-08/Personagem/Personagem.csproj": {}
   },
   "projects": {
-    "/Users/DS1/Documents/2026-I2DS/Aula-05/exer-08/Personagem/Personagem.csproj": {
+    "/Users/DS1/Documents/2026-I2DS/Aula-05/Lívia-08/Personagem/Personagem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/DS1/Documents/2026-I2DS/Aula-05/exer-08/Personagem/Personagem.csproj",
+        "projectUniqueName": "/Users/DS1/Documents/2026-I2DS/Aula-05/Lívia-08/Personagem/Personagem.csproj",
         "projectName": "Personagem",
-        "projectPath": "/Users/DS1/Documents/2026-I2DS/Aula-05/exer-08/Personagem/Personagem.csproj",
+        "projectPath": "/Users/DS1/Documents/2026-I2DS/Aula-05/Lívia-08/Personagem/Personagem.csproj",
         "packagesPath": "/Users/DS1/.nuget/packages/",
-        "outputPath": "/Users/DS1/Documents/2026-I2DS/Aula-05/exer-08/Personagem/obj/",
+        "outputPath": "/Users/DS1/Documents/2026-I2DS/Aula-05/Lívia-08/Personagem/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/DS1/.nuget/NuGet/NuGet.Config"
