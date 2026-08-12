@@ -58,6 +58,8 @@ internal class Program
         Console.WriteLine("\n=== LISTA ORDENADA POR SALÁRIO ===");
         var listaSalario = listaColab.OrderBy(c => c.Salario).ToList();
         ImprimirLista(listaSalario);
+
+
         Console.WriteLine("\n=== LISTA DE SALÁRIOS MAIORES QUE R$ 2.000,00 ===");
         var listaSalarioAlto = listaColab
         .Where(colab => colab.Salario >= 2000)
@@ -87,6 +89,22 @@ internal class Program
         Console.WriteLine();
         Console.WriteLine($"Nome: {colaboradorMenorS.Nome} - Salário R$: {colaboradorMenorS.Salario} - Data de Registo: {colaboradorMenorS.DataRegistro}");
 
+    Console.WriteLine("\n=== PRIMEIRO CCOLABORADOR DA LISTA ===");
+    var primeiro = listaColab.FirstOrDefault();
+        Console.WriteLine();
+        Console.WriteLine($"Nome: {primeiro.Nome} - Salário R$: {primeiro.Salario} - Data de Registo: {primeiro.DataRegistro}");
+
+        Console.WriteLine("\n=== ULTIMO COLABORADOR DA LISTA ===");
+        var ultimo = listaColab.LastOrDefault();
+        Console.WriteLine();
+            Console.WriteLine($"Nome: {ultimo.Nome} - Salário R$: {ultimo.Salario} - Data de Registo: {ultimo.DataRegistro}");
+
+        Console.WriteLine("\n=== DASHBOARD GERAL ===");
+        var quantidadeColab = listaColab.Count();
+        var somaSalarios = listaColab.Sum(c => c.Salario);
+
+        Console.WriteLine($"\nQuantidade de Colaboradores: {quantidadeColab}");
+        Console.WriteLine($"Soma Total de Salários: {somaSalarios}");
     }
 
 
